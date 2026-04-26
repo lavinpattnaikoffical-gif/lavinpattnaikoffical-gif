@@ -1,14 +1,23 @@
 <div align="center">
 
-# `> I fork the past, and destroy the roadblocks to the future.`
+# ⚡ `LAVIN PATTNAIK` ⚡
+### `AI & IoT Innovator` ◦ `Computer Vision Engineer` ◦ `Systems Architect`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+IoT+Innovator;Computer+Vision+Engineer;Full-Stack+Developer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+> *I fork the past, and destroy the roadblocks to the future.*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lavinpattnaik.app-00D9FF?style=for-the-badge&logoColor=white)](https://lavinpattnaik.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavin_Pattnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavin-pattnaik-272966381)
-[![GitHub](https://img.shields.io/badge/GitHub-lavinpattnaikoffical--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavinpattnaikoffical-gif)
+<a href="https://lavinpattnaik.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00D9FF&labelColor=000000" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lavin-pattnaik-272966381">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=000000" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/lavinpattnaikoffical-gif">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000" alt="GitHub" />
+</a>
 
 <br/>
 
