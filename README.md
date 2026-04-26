@@ -23,9 +23,6 @@
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000" alt="GitHub" />
 </a>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lavinpattnaikoffical-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 
 </div>
 
