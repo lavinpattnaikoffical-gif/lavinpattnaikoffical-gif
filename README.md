@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00D9FF&height=250&section=header&text=LAVIN_PATTNAIK&fontSize=65&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20IoT%20Innovator%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Systems%20Architect&descAlignY=65&descSize=20&fontAlignY=35" alt="Lavin Pattnaik Header" />
+# LAVIN PATTNAIK
+
+<br/>
+
+<code>&lt; AI & IoT Innovator /&gt;</code> &nbsp;•&nbsp; <code>&lt; Computer Vision /&gt;</code> &nbsp;•&nbsp; <code>&lt; Systems Architect /&gt;</code>
 
 <br/>
 
