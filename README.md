@@ -15,11 +15,15 @@
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=000000" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
+<a href="https://instagram.com/lavinpattnaik_om_">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00D9FF&labelColor=000000" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/lavinpattnaikoffical-gif">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000" alt="GitHub" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=lavinpattnaikoffical-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 
@@ -33,12 +37,14 @@ I'm **Lavin Pattnaik** — an **AI & IoT Innovator** and **Full-Stack Developer*
 
 My work spans from gesture-controlled interfaces powered by computer vision to self-hosted AI chat agents running entirely on local hardware. I believe in privacy-first, open-source technology — tools that put power back in the hands of the builder.
 
+When I'm not shipping projects, I'm exploring the bleeding edge of AI, experimenting with new paradigms in human-computer interaction, and pushing what's possible with Python, TypeScript, and a webcam.
+
 ---
 
 ## ⚔️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,express,firebase,mongodb,git,github,linux,docker,vscode,arduino,c,cpp&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dart,html,js,kotlin,py,ts,cpp,css,netlify,vercel,gcp,firebase,bootstrap,fastapi,express,flutter,opencv,nodejs,nextjs,react,tailwind,threejs,vite,windicss,nginx,supabase,prisma,sqlite,mysql,mongodb,tensorflow,githubactions,git,github,arduino,raspberrypi&perline=12" alt="Tech Stack" />
 </div>
 
 ---
@@ -65,6 +71,7 @@ My work spans from gesture-controlled interfaces powered by computer vision to s
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinpattnaikoffical-gif&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=lavinpattnaikoffical-gif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
 </div>
 
 ---
@@ -75,6 +82,8 @@ My work spans from gesture-controlled interfaces powered by computer vision to s
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lavinpattnaikoffical-gif&color=00D9FF&style=flat-square)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=lavinpattnaikoffical-gif&icon=0&color=00D9FF&style=flat-square" alt="Profile Views" />
+</a>
 
 </div>
