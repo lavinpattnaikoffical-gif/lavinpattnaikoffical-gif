@@ -1,9 +1,10 @@
 <div align="center">
 
-# ⚡ `LAVIN PATTNAIK` ⚡
-### `AI & IoT Innovator` ◦ `Computer Vision Engineer` ◦ `Systems Architect`
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00D9FF&height=250&section=header&text=LAVIN_PATTNAIK&fontSize=65&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20IoT%20Innovator%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Systems%20Architect&descAlignY=65&descSize=20&fontAlignY=35" alt="Lavin Pattnaik Header" />
 
-> *I fork the past, and destroy the roadblocks to the future.*
+<br/>
+
+### *❝ I fork the past, and destroy the roadblocks to the future. ❞*
 
 <br/>
 
