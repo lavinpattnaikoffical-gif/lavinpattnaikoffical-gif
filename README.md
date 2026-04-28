@@ -58,7 +58,7 @@ When I'm not shipping projects, I'm exploring the bleeding edge of AI, experimen
 | ⚡ | **Architecting** | Real-world AI + IoT hybrid bridges for the physical world |
 | 🧠 | **Researching** | Deep LLM fine-tuning, advanced RAG systems, and Edge AI |
 | 🚀 | **Deploying** | Production-ready intelligence used by real people |
-| 🤝 | **Collaborating** | Open to high-velocity builders who ship fast and think big. |
+| 🤝 | **Collaborating** | Open to high-velocity builders who ship fast and think big |
 
 ---
 
